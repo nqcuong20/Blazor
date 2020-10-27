@@ -1,0 +1,18 @@
+﻿@using Data
+
+@if (Item != null)
+{
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">
+                <strong>Currently selected</strong>
+            </span>
+        </div>
+        <input readonly type="text" @bind="Item.Title" class="form-control" placeholder="Todo" />
+    </div>
+}
+
+@code {
+    [Parameter]
+    public TodoItem Item { get; set; }
+}

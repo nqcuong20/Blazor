@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v3gjbEnsoyLBzNNmTkBK/Fwm9Lop1xb0hxEjIPYF/Q5D4pckMVEa6q87FXu7Buc9x9r1XkZ3B2r3IMCk71MJPw==",
+  "dgSpecHash": "+pNm461pWLXT4SjNRLL+mWvKMvqIrnLp98Uo+Bdb9ajBPYXaTzEPIijYc9TozH5ya7mpVpJk4A7dd4kODNArnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\source\\repos\\ToDo_SpaceTeam\\ToDo_SpaceTeam\\ToDo_SpaceTeam.csproj",
+  "projectFilePath": "C:\\Users\\Nguyen Quoc Cuong\\Source\\Repos\\Blazor\\ToDo_SpaceTeam\\ToDo_SpaceTeam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Quoc Cuong\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

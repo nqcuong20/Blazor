@@ -13,70 +13,70 @@ namespace ToDo_SpaceTeam.Components
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 1 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 2 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 3 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 4 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 5 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 6 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 7 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 8 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using ToDo_SpaceTeam;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
+#line 9 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\_Imports.razor"
 using ToDo_SpaceTeam.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\Components\TodoListItem.razor"
+#line 1 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\Components\TodoListItem.razor"
 using Data;
 
 #line default
@@ -90,7 +90,7 @@ using Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 15 "C:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\Components\TodoListItem.razor"
+#line 15 "c:\Users\Nguyen Quoc Cuong\Source\Repos\Blazor\ToDo_SpaceTeam\Components\TodoListItem.razor"
        
     [Parameter]
     public TodoItem Item { get; set; }

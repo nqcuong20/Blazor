@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1333279266,
+        "Kind": "Components.Component",
+        "Name": "ToDo_SpaceTeam.App",
+        "AssemblyName": "ToDo_SpaceTeam",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ToDo_SpaceTeam.App"
+        }
+      },
+      {
+        "HashCode": 515374453,
+        "Kind": "Components.Component",
+        "Name": "ToDo_SpaceTeam.App",
+        "AssemblyName": "ToDo_SpaceTeam",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDo_SpaceTeam.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ToDo_SpaceTeam.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1859560009,
         "Kind": "Components.Component",
         "Name": "ToDo_SpaceTeam.Components.TodoListItem",
@@ -190,72 +223,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "ToDo_SpaceTeam.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1103222809,
-        "Kind": "Components.Component",
-        "Name": "ToDo_SpaceTeam.Shared.NavMenu",
-        "AssemblyName": "ToDo_SpaceTeam",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ToDo_SpaceTeam.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1426630218,
-        "Kind": "Components.Component",
-        "Name": "ToDo_SpaceTeam.Shared.NavMenu",
-        "AssemblyName": "ToDo_SpaceTeam",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ToDo_SpaceTeam.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ToDo_SpaceTeam.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1333279266,
-        "Kind": "Components.Component",
-        "Name": "ToDo_SpaceTeam.App",
-        "AssemblyName": "ToDo_SpaceTeam",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ToDo_SpaceTeam.App"
-        }
-      },
-      {
-        "HashCode": 515374453,
-        "Kind": "Components.Component",
-        "Name": "ToDo_SpaceTeam.App",
-        "AssemblyName": "ToDo_SpaceTeam",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ToDo_SpaceTeam.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ToDo_SpaceTeam.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
